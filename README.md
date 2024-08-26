@@ -1,4 +1,5 @@
 👋 Hi, I’m Aruna
+<br>
 👀 I’m passionate about **Full Stack Development** and **Problem-Solving in Java**
 🌱 Currently, I’m practicing and enhancing my skills in Full Stack Development
 💻 I enjoy building responsive web applications and exploring new technologies
