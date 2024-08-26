@@ -1,10 +1,13 @@
-- 👋 Hi, I’m Aruna
-- 👀 I’m interested in Software Development 
-- 🌱 I’m currently learning Web Development 
-- 📫 Email:arunasubramanian456@gmail.com
-- 😄 Pronouns: her/she
+👋 Hi, I’m Aruna
+👀 I’m passionate about **Full Stack Development** and **Problem-Solving in Java**
+🌱 Currently, I’m practicing and enhancing my skills in Full Stack Development
+💻 I enjoy building responsive web applications and exploring new technologies
+📚 In my free time, I love learning about data analysis and cloud computing
+📫 Email: arunasubramanian456@gmail.com
+😄 Pronouns: her/she
 
-<!---
-Aruna456/Aruna456 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**About Me**
+I am a Bachelor's degree student in Information Technology, actively seeking opportunities to apply my skills in Full Stack Development. I am particularly interested in projects that allow me to solve complex problems and create impactful solutions. I'm always open to collaboration, learning, and sharing knowledge with others.
+
+Feel free to connect with me if you’re interested in working on innovative projects or just want to discuss tech!!
+
