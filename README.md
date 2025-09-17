@@ -5,14 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aruna456" alt="aruna456" /></a> </p>
 
-
-- 🌱 I’m currently learning **Typescript.**
-
 - 📫 How to reach me **arunasubramanian456@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
