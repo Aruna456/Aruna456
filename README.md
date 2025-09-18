@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aruna456&label=Profile%20views&color=0e75b6&style=flat" alt="aruna456" /> </p>
 
-- 🌱 I’m currently learning **Typescript.**
 
 - 📫 How to reach me **arunasubramanian456@gmail.com**
 
