@@ -6,8 +6,6 @@
 
 - 📫 How to reach me **arunasubramanian456@gmail.com**
 
-- 📝 I regularly write articles on **[https://www.linkedin.com/in/aruna-subramanian/](https://www.linkedin.com/in/aruna-subramanian/)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Aruna456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Aruna456" height="30" width="40" /></a>
